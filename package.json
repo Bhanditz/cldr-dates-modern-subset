@@ -1,0 +1,18 @@
+{
+  "name": "cldr-dates-modern-subset",
+  "version": "31.0.1",
+  "description": "A subset of cldr-dates-modern for javascript-time-ago",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itchio/cldr-dates-modern-subset.git"
+  },
+  "author": "Jesús Higueras",
+  "license": "Unicode-TOU",
+  "bugs": {
+    "url": "https://github.com/itchio/cldr-dates-modern-subset/issues"
+  },
+  "homepage": "https://github.com/itchio/cldr-dates-modern-subset#readme"
+}
